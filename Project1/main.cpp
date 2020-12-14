@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("Hello VisualStudio GitHub");
+	printf("Hello World");
 }
