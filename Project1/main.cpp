@@ -4,5 +4,5 @@ int main()
 {
 	printf("Hello World");
 
-	printf("新規ブランチでこの行を追加");
+	printf("新規ブランチでこの行を追加");/
 }
